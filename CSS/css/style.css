@@ -1,0 +1,50 @@
+body {
+  margin: 0;
+  text-align: center;
+}
+
+div {
+  background-color: #f1f4df;
+  position: relative;
+  padding-top: 50px;
+}
+
+h1 {
+  margin: 50px auto 0 auto;
+  font-family: 'Great Vibes', cursive;
+  font-size: 5.625rem;
+  color: #24009c;
+}
+
+h2 {
+  font-family: 'Cormorant Garamond', serif;
+  font-size: 2.5rem;
+  color: #24009c;
+}
+
+h3 {
+  font-family: 'Cormorant Garamond', serif;
+  color: #0028ff;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.top-cloud {
+  position: absolute;
+  top: 50px;
+  right: 300px;
+}
+
+.profile-pic {
+  border-radius: 50%;
+  position: relative;
+  top: 0;
+}
+
+.footer-link {
+  color: #0028ff;
+}
